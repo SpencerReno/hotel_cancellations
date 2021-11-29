@@ -17,11 +17,15 @@ This graph could help out the hotels a lot as they can see where their strongest
 ## Machine Learning Prediction Models
 ### KNeighborsClassifier
 For my prediction models I predicted the binary classification on whether or not a person is likly to cancel their stay or not. First model I ran was a KNN Classification model that did very well. However, the run times were very long around two mins to complete. 
+![knn scores](https://user-images.githubusercontent.com/88803320/143914881-964859a9-02fc-4f22-a272-a8ee548bd973.JPG)
 
 
 ### XGBClassifier
 Since the run time took a while I decided to go with an XGBClassifier to try and boost the testing scores up higher. With this model I got a training and testing score of 1. To check for overfitting I predicted with all values in the X and made a new dataframe with the predicted values and the actual Y values. Then a condiction column was added with all values set to False this is to check if the predicted values match the actual values. If the predicted value matched the actual value the conition would be changed from False to True.
 and checking the value counts on the condition column showed that there were no False values meaning that XGB was not over fit and actually did predict all values correct. 
+![xgb scores](https://user-images.githubusercontent.com/88803320/143914899-8f0db4a2-9845-4583-a95f-cea637227cd5.JPG)
+
 
 ## PCA and LogisticRegression
 Just to run one more model I ran a logistic Regression model with pca scaling. This model ran similar to the XGBClassifier with just a slight increase in run time. However, it had the same 1.0 training and testing scores for this model.
+![logreg](https://user-images.githubusercontent.com/88803320/143915036-54dd8144-5de6-4e7a-bf0e-d04b9b33952c.JPG)
