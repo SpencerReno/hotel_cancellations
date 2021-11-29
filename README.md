@@ -5,12 +5,13 @@ With this project my goal was to predict wheather or not a customer would cancel
 
 ## Cacellations based on average days on a waiting list
 One clear point with this graph is that city hotels are stayed at more than resorts. Also, people who book a stay at a city hotel are more likly to sit on a waiting list longer than those at a resort hotel. After 4 days on a waiting list for a city hotel is likly when a person is going to cancel their stay. For a resort hotel is even less on average pepople wont even wait one day on a waiting list for a resort hotel. This also could be due to them not having a large waiting list since those hotels are bigger than a normal city hotel.
+![avg days on waiting list](https://user-images.githubusercontent.com/88803320/143910927-45ef10d0-d127-4476-b0d6-8a7758c3b706.png)
 
 
 
 ## Number of Customers for each month
 This graph could help out the hotels a lot as they can see where their strongest and weakest months. During the summer their sales are very good in most cases this is due to people traveling for vacations and resort hotels are more based around the summer time. In order to increase sales in the winter they could probably change a few things to increase the number of customer. People still travel during the winter seasons they just might not be looking for a resort feel or maybe their resorts arent open during these times. Those are some key ideas they could look at to fixing the lower numbers during the winter season. 
-
+![number of customers](https://user-images.githubusercontent.com/88803320/143910911-68703d18-b10e-41c9-99bd-f7cf885cdee4.png)
 
 
 ## Machine Learning Prediction Models
