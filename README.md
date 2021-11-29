@@ -15,7 +15,7 @@ This graph could help out the hotels a lot as they can see where their strongest
 
 ## Number of Customers For each year 
 similar to the graph before in comparing the months and the number of customers separated by the years. 2015 only shows from November to September but also had the lowest numbers of all three years. 2016 and 2017 both trade off frequently. However, as the years progressed it seemed as if the hotels were slowly starting to figure out how to increase their sales in the winter and early new year times. Taking note of what they did during October of 2016 and repeating that each year would really help a lot too as the month of October in 2016 was as high as the highest peak in 2017 of may.
-![customers based on years and months](https://user-images.githubusercontent.com/88803320/143919291-b1462dbb-334c-4c41-b9d0-60827f957580.png)
+![customers based on years and months](https://user-images.githubusercontent.com/88803320/143920394-a3f03cd7-ef5d-416d-a59b-46f141bfe600.png)
 
 
 ## Machine Learning Prediction Models
